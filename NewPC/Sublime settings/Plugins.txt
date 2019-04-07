@@ -1,0 +1,8 @@
+1. Заходим на сайт https://packagecontrol.io/installation, копируем текст и вставляем в консоль в sublime (ctrl+`)
+2. Emmet
+3. Brackethighliter
+4. Autoprefixer
+5. Autofilename
+6. Allautocomplete
+7. Colorhighlighter
+8. CSS Comb
